@@ -29,4 +29,4 @@ solicitar que otro desarrollador (por ejemplo, el mantenedor del proyecto) incor
 Como funciona Pull Request
 Permite a los colaboradores proponer cambios en un repositorio y solicitar que esos cambios se fusionen con la rama principal
 
-Punto 4 parte III
+Punto 4 parte III.
