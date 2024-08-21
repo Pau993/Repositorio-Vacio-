@@ -1,4 +1,4 @@
-Hola, Paula edito esto
+Hola, Paula edito esto.
 Modificaciones
 
 INTEGRANTES
